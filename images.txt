@@ -1,1 +1,2 @@
 ailg/alist:latest
+ailg/ggbond:latest
