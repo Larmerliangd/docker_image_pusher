@@ -7,3 +7,4 @@ IceWhaleTech/CasaOS
 IceWhaleTech/CasaOS-Installer
 wukongdaily/OrangePiShell
 mowentian/docker
+ailg/alist:latest
