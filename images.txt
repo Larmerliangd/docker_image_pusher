@@ -1,2 +1,1 @@
-ailg/alist:latest
-ailg/ggbond:latest
+nyanmisaka/jellyfin:240220-amd64-legacy
