@@ -1,2 +1,3 @@
 nyanmisaka/jellyfin:240220-amd64-legacy
 ailg/alist:latest
+frooodle/s-pdf:latest
